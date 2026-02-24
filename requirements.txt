@@ -1,0 +1,12 @@
+# Multimodal Insurance Creator
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+matplotlib>=3.7.0
+pypdf>=3.0.0
+sentence-transformers>=2.2.0
+google-generativeai>=0.3.0
+torch>=2.0.0
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+streamlit>=1.28.0
